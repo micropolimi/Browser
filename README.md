@@ -2,4 +2,4 @@
 
 Browser for data, particularly for data acquired with Scope Foundry
 
-Includes h5 image visualization 
+Includes h5 file image visualization 
